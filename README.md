@@ -52,6 +52,7 @@ http://4xmen.ir/
 https://xstack.ir
 
 
+
 ## Features
 
 * 📱 Mobile Apps ( Develop your app for : Andriod , IOS )
@@ -60,7 +61,7 @@ https://xstack.ir
 * 👉 GUI ( GUI drag and drop component )
 * 👨‍💻 xScript ( xScript code look like javascript )
 * 💯 Free ( Totally Free )
-
+* واقعا کارتون عالی هستش روم نمیشه دستکاری کنم فداتون بهترین مهندس های ایران
 
 
 ## Linux Installation
